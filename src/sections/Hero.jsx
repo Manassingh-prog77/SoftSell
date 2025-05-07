@@ -1,14 +1,4 @@
-/**
- * Hero.jsx - Improved version with better image handling
- * 
- * Key improvements:
- * - Fixed responsive layout for the hero graphic
- * - Replaced multiple box layers with a clean placeholder graphic
- * - Improved theme integration using MUI theme properties
- * - Simplified animation with a single motion effect for the graphic
- * - Removed absolute positioning and z-index hacks
- * - Maintained background decorative elements without overlap issues
- */
+/* eslint-disable no-unused-vars */
 
 import React from 'react';
 import { 

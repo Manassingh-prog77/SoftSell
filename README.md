@@ -15,8 +15,8 @@ _A responsive, single-page marketing website for a fictional software resale sta
 - **Contact / Lead Form:** Frontend-validated form collecting user details.
 - **Theme Toggle:** Light and dark mode via MUI’s ThemeProvider.
 - **Animations:** Subtle section reveals and interactive feedback using Framer Motion.
+- **Chat Option:** A responsive LLM-style Q&A widget with predefined questions to help users.
 
-Replica of a production-ready landing page, optimized for responsiveness and accessibility.
 
 ---
 

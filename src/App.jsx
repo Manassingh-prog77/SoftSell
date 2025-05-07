@@ -7,7 +7,7 @@ import HowItWorks from './sections/HowitWork';
 import WhyChooseUs from './sections/WhyChooseUs';
 import Testimonials from './sections/Testimonials';
 import ContactForm from './sections/ContactForm';
-// import ChatWidget from './components/ChatWidget';
+import ChatWidget from './component/ChatWidget';
 import SEO from './component/SEO';
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
           <WhyChooseUs id="features" />
           <Testimonials id="testimonials" />
           <ContactForm id="contact" />
-          {/* <ChatWidget /> */}
+          <ChatWidget />
         </Layout>
       </ThemeContextProvider>
     </HelmetProvider>
